@@ -1,0 +1,6 @@
+name: Disabler
+version: '${project.version}'
+main: ch.timeo.disabler.Disabler
+api-version: '1.19'
+load: STARTUP
+description: Disable Craft or Enchant
